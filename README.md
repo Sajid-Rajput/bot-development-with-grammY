@@ -44,6 +44,6 @@ A big thanks to the grammY.js community for their support and resources. For mor
 
 ## 📬 Contact
 
-For any questions or collaborations, reach out to me via [LinkedIn](https://www.linkedin.com/in/muhammad-sajid-ali-khan-5145b7135/) or [email](sajidrajput01.and@gmail.com).
+For any questions or collaborations, reach out to me via [LinkedIn](https://www.linkedin.com/in/muhammad-sajid-ali-khan-5145b7135/) or [email](mailto:sajidrajput01.and@gmail.com).
 
 Happy coding! 💻🤖
